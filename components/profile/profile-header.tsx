@@ -10,8 +10,8 @@ import { useState, useEffect } from 'react';
 
 export default function ProfileHeader() {
   const [userData, setUserData] = useState({
-    avatar: 'https://avatars.githubusercontent.com/u/97248266?s=400&u=88e075f4cba3f337363b7bf70d524864e0732182&v=4',
-    status: 'offline',
+    avatar: 'https://r.resimlink.com/8CWnMTIk4ur.png',
+    status: 'online',
     isAnimated: false,
   });
 
